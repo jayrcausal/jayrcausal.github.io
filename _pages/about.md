@@ -2,22 +2,21 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'>New York University, Harvard University</a>. Cambridge,MA
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>Cambridge,MA</p>
-
+    #address: >
+    #<p>New York, NY, US</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-<p style="color: black;">I am a researcher at NYU (off 2024 to Boston).  I work on causal inference methodology and its applications such as policy learning for healthcare, causality discovery for genes and cells intervention. I also make marginal contribution to applied causal inference by improving credibility in regression discontinuity design. I was fortunately supervised by <a href="https://bryantjmoy.com/">Prof.Bryant Moy</a> at NYU Center for Data Science and <a href="https://michelesantacatterina.github.io/">Prof.Michele</a> at Grossman School of Medicine at NYU Langone.</p>
+I am a researcher at NYU (off 2024 to Boston).  I work on causal inference methodology and its applications such as policy learning for healthcare, causality discovery for genes and cells intervention. I also make marginal contribution to applied causal inference by improving credibility in regression discontinuity design. I was fortunately supervised by <a href="https://bryantjmoy.com/">Prof.Bryant Moy</a> at NYU Center for Data Science and <a href="https://michelesantacatterina.github.io/">Prof.Michele</a> at Grossman School of Medicine at NYU Langone.
 
 __Research Interests__: My research interest broadly spans manifolds of causal inference and causality discovery and my recent focus has been 
 
