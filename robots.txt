@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://jayrcausal.github.io/sitemap.xml
