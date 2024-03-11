@@ -6,7 +6,7 @@ subtitle: <a href='#'>New York University, Harvard University</a>. Cambridge,MA
 
 profile:
   align: right
-  image: prof_pic_mini.jpg
+  image: prof_pic.png
   image_circular: false # crops the image to make it circular
     #address: >
     #<p>New York, NY, US</p>
