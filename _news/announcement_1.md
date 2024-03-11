@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2024-1-15
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Our recent work on this topic “Improving Confidence in RDDs: Discontinuity Detection through Bayesian Change Point Analysis,” received the [Best Poster Prize](https://nyudatascience.medium.com/unlocking-the-truth-in-social-science-data-a-new-approach-to-detecting-real-changes-a12ea79b060f) at Asian & MENA PolMeth.
