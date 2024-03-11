@@ -9,17 +9,17 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Cambridge,MA</p>
+
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+<p style="color: black;">I am a researcher at NYU (off 2024 to Boston).  I work on causal inference methodology and its applications such as policy learning for healthcare, causality discovery for genes and cells intervention. I also make marginal contribution to applied causal inference by improving credibility in regression discontinuity design. I was fortunately supervised by <a href="https://bryantjmoy.com/">Prof.Bryant Moy</a> at NYU Center for Data Science and <a href="https://michelesantacatterina.github.io/">Prof.Michele</a> at Grossman School of Medicine at NYU Langone.</p>
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+__Research Interests__: My research interest broadly spans manifolds of causal inference and causality discovery and my recent focus has been 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+- Causal Inference:  causal graphical models and applied causal inference
+- Precision Medicine: causal discovery and representation learning in cell perturbation,genetic causal mechanism for treatment regimen planning and root-cause of disease.
