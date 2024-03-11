@@ -7,6 +7,8 @@ nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
-
-Organize your courses by years, topics, or universities, however you like!
+- **DS-UA201 Causal Inference**(co-instructor Bryant Moy)
+- **GSAS-2043 Intro to Machine Learning**(co-instructor Paul Squires )
+- **CAS-11 Statistics for Analysis and Research**
+- **CAS-10 Statistics for Bahavioral Science**(with Elizabeth Bauer)
+- **GY-6193 Statistics for Data Analyst**
