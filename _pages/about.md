@@ -18,12 +18,12 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a researcher at NYU (off 2024 to Boston).  I work on causal inference methodology and its applications such as policy learning for healthcare, causality discovery for genes and cells intervention. I also make marginal contribution to applied causal inference by improving credibility in regression discontinuity design. I was fortunately supervised by <a href="https://bryantjmoy.com/">Prof.Bryant Moy</a> at NYU Center for Data Science and <a href="https://michelesantacatterina.github.io/">Prof.Michele</a> at Grossman School of Medicine at NYU Langone.
+I am a graduate student at NYU (2024 off to Boston). At NYU, I was fortunately supervised by <a href="https://bryantjmoy.com/">Prof.Bryant Moy</a> at NYU Center for Data Science and <a href="https://michelesantacatterina.github.io/">Prof.Michele</a> at Grossman School of Medicine at NYU Langone. I received my master's degree jointly in [Engineering and Courant Institute of Mathematics](https://math.nyu.edu/dynamic/sites/tandon/). I completed my undergraduate study as a Civil Engineering and Mechanics student supervised my Prof Li Zhao.
 
-__Research Interests__: My research interest broadly spans manifolds of causal inference and my recent focus has been 
+__Research Interests__: My research interest broadly spans manifolds of causal inference and my recent focus has been primarily on life sciences:
 
-- Causal Inference: causal representation learning and applied causal methods
-- Precision Medicine: causal mechanism for gene regulation,cell perturbation and off-policy learning for treatment regimen planning
+- Causal representation learning: causal mechanism for gene regulation,cell perturbation and root-cause exploration of diseases.
+- Off-policy learning: off-policy learning for dynamic treatment regimen planning
 
 For NYU students interested causal inference research, I write the [notes](https://jr5674.wixsite.com/mysite/causal-inference-course) for causal inference courses
 
