@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a graduate student at NYU (2024 off to Boston). At NYU, I was fortunately supervised by <a href="https://bryantjmoy.com/">Prof.Bryant Moy</a> at NYU Center for Data Science and <a href="https://michelesantacatterina.github.io/">Prof.Michele</a> at Grossman School of Medicine at NYU Langone. I received my master's degree jointly in [Engineering and Courant Institute of Mathematics](https://math.nyu.edu/dynamic/sites/tandon/). I completed my undergraduate study as a student in Management Science and Engineering(with a concentration of mechanics) supervised Prof Li Zhao.
+I am a graduate student at NYU (2024 off to Boston). At NYU, I was fortunately supervised by <a href="https://bryantjmoy.com/">Prof.Bryant Moy</a> at NYU Center for Data Science and <a href="https://michelesantacatterina.github.io/">Prof.Michele</a> at Grossman School of Medicine at NYU Langone. I received my master's degree jointly in [Engineering and Courant Institute of Mathematics](https://math.nyu.edu/dynamic/sites/tandon/). I completed my undergraduate study as a student in Management Science and Engineering(with a concentration of mechanics) where I also had the great fortune to be supervised by Prof Li Zhao.
 
 __Research Interests__: My research interest broadly spans manifolds of causal inference and my recent focus has been primarily on life sciences:
 
