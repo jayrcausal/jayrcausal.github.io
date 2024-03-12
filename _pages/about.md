@@ -27,4 +27,4 @@ __Research Interests__: My research interest broadly spans manifolds of causal i
 
 For NYU students interested causal inference research, I write the [notes](https://jr5674.wixsite.com/mysite/causal-inference-course) for causal inference courses
 
-_I am going to plan an interview series on the topics,[**'Talking to Causality'**](https://www.youtube.com/channel/UC1xuZ2oXQCDQWtZx1v7OIGw), a unique theme where I will invite and talk to big-names in causal inference research. Those interviews will be recorded as a public resource for people to watch according to their personal interest. Please check back later._
+_I am going to plan an interview series on the topics,[**'BornCausal'**](https://www.youtube.com/channel/UC1xuZ2oXQCDQWtZx1v7OIGw)(abbreviated for Best of Research in Causal), a unique theme where I will invite and talk to big-names in causal inference research. Those interviews will be recorded as a public resource for people to watch according to their personal interest. Please check back later._
