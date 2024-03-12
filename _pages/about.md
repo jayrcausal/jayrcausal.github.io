@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>New York University, Harvard University</a>. _Cambridge,MA_
+subtitle: <a href='#'>New York University, Harvard University</a>. **Cambridge,MA**
 
 profile:
   align: right
@@ -24,3 +24,7 @@ __Research Interests__: My research interest broadly spans manifolds of causal i
 
 - Causal Inference:  causal graphical models and applied causal inference
 - Precision Medicine: causal discovery and representation learning in cell perturbation,genetic causal mechanism for treatment regimen planning and root-cause of disease.
+
+For NYU students interested causal inference research, I write the [notes](https://jr5674.wixsite.com/mysite/causal-inference-course) for causal inference courses
+
+_I am going to plan an interview series on the topics,**Talking to Causality**, a unique theme where I will invite and talk to big-names in causal inference research. Those interviews will be recorded as a public resource for people to watch according to their personal interest. Please check back later._
