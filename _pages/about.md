@@ -24,6 +24,7 @@ __Research Interests__: My research interest broadly spans manifolds of causal i
 
 - Causal representation learning: causal mechanism for gene regulation,cell perturbation and root-cause exploration of diseases.
 - Off-policy learning: off-policy learning for dynamic treatment regimen planning
+- Sometimes causal inference topics in genetics are merged with conformal inferential approches.
 
 For NYU students interested causal inference research, I write the [notes](https://jr5674.wixsite.com/mysite/causal-inference-course) for causal inference courses
 
