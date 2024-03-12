@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>New York University, Harvard University,</a>, <strong>Cambridge,MA</strong>
+subtitle: <a href='#'>New York University, Harvard University</a>, <strong>Cambridge,MA</strong>
 
 profile:
   align: right
