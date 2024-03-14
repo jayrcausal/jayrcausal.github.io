@@ -5,7 +5,7 @@ permalink: /
 subtitle: <a href='#'>New York University, Harvard University</a>, <strong>Cambridge,MA</strong>
 
 profile:
-  align: left
+  align: right
   image: prof_pic.png
   image_circular: true # crops the image to make it circular
   # image_width: 123px # width
