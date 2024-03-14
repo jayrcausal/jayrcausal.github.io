@@ -8,8 +8,8 @@ profile:
   align: left
   image: prof_pic.png
   image_circular: true # crops the image to make it circular
-  image_width: 123px # width
-  image_height: 155px # height
+  # image_width: 123px # width
+  # image_height: 155px # height
     #address: >
     #<p>New York, NY, US</p>
 
