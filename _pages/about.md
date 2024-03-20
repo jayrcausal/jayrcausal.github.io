@@ -7,7 +7,7 @@ subtitle: <a href='#'>New York University, Harvard University</a>, <strong>Cambr
 profile:
   align: right
   image: prof_pic.png
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   # image_width: 123px # width
   # image_height: 155px # height
     #address: >
