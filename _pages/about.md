@@ -20,13 +20,10 @@ social: true # includes social icons at the bottom of the page
 
 I am currently a researcher at MIT, co-supervised by Prof Regina Barzilay(MIT) and Prof Biwei Huang(UC San Diego). Prior to joining MIT, I was fortunately supervised by <a href="https://bryantjmoy.com/">Prof.Bryant Moy</a> at NYU Center for Data Science and <a href="https://michelesantacatterina.github.io/">Prof.Michele</a> at Grossman School of Medicine at NYU Langone. I received my master's degree jointly in [Engineering and Courant Institute of Mathematics](https://math.nyu.edu/dynamic/sites/tandon/).
 
-# I completed my undergraduate study as a student in Management Science and Engineering(with a concentration of engineering mechanics) where I also had the great fortune to be supervised by Prof Li Zhao(赵丽).
-
 __Research Interests__: My research interest broadly spans manifolds of causal inference and my recent focus has been primarily on life sciences:
 
 - Causal representation learning: causal mechanism for gene regulation,cell perturbation and root-cause exploration of diseases.
-- Off-policy learning: off-policy learning for dynamic treatment regimen planning
-- Sometimes causal inference topics in genetics are merged with conformal inferential approches.
+- Dynamic treatment regimen planning:stochastic intervention 
 
 For NYU students interested causal inference research, I write the [notes](https://jr5674.wixsite.com/mysite/causal-inference-course) for causal inference courses
 
