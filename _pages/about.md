@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am graduate of New York University and currently supervised by Prof Biwei Huang(UC San Diego) and Kun Zhang(CMU). Prior to moving to Boston, I was fortunately supervised by <a href="https://bryantjmoy.com/">Prof.Bryant Moy</a> at NYU Center for Data Science and <a href="https://michelesantacatterina.github.io/">Prof.Michele</a> at Grossman School of Medicine at NYU Langone. I received my master's degree jointly in [Engineering and Courant Institute of Mathematics](https://math.nyu.edu/dynamic/sites/tandon/).
+I am graduate of New York University and currently supervised by Prof <a href="https://biweihuang.com/">Prof.Biwei Huang</a>(Assistant Professor in EECS,UC San Diego) and Kun Zhang(CMU). Prior to moving to Boston, I was fortunately supervised by <a href="https://bryantjmoy.com/">Prof.Bryant Moy</a> at NYU Center for Data Science and <a href="https://michelesantacatterina.github.io/">Prof.Michele</a> at Grossman School of Medicine at NYU Langone. I received my master's degree jointly in [Engineering and Courant Institute of Mathematics](https://math.nyu.edu/dynamic/sites/tandon/).
 
 __Research Interests__: My research interest broadly spans manifolds of causal inference and my recent focus has been primarily on life sciences:
 
