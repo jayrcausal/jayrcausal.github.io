@@ -22,9 +22,9 @@ I am a graduate of New York University and currently supervised by Prof <a href=
 
 __Research Interests__: My research interest broadly spans manifolds of causal inference and my recent focus has been primarily on life sciences:
 
-- Theory of causal representation learning : mathematical guarantee for identifiability of latent causal transformation and its inverse with lessened assumptions on the sparsity constraints and sufficient interventions. 
-- Application of biological sciences and diseases : root-cause of disease via causal representation, cell intervention and genetic perturbation
+- Theory of causal representation learning : mathematical guarantee for identifiability of latent causal process and its inverse
+- Application of biological sciences and diseases : root-cause of disease via causal representation, causal process of mutations in genes and causal impacts in molecules 
 
-For NYU students interested causal inference research, I write the [notes](https://jr5674.wixsite.com/mysite/causal-inference-course) for causal inference courses
+For NYU students interested in causal inference research, I write the [notes](https://jr5674.wixsite.com/mysite/causal-inference-course)
 
 _I am going to plan an interview series on the topics,[**'BornCausal'**](https://www.youtube.com/channel/UC1xuZ2oXQCDQWtZx1v7OIGw)(abbreviated for Best of Research in Causal), a unique theme where I will invite and talk to big-names in causal inference research. Those interviews will be recorded as a public resource for people to watch according to their personal interest. Please check back later._
