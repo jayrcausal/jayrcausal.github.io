@@ -6,7 +6,7 @@ subtitle: <a href='#'>New York University(inactice in 2024)</a>, <strong>Cambrid
 
 profile:
   align: right
-  image: p3.jpg
+  image: p3.png
   image_circular: false # crops the image to make it circular
   # image_width: 123px # width
   # image_height: 155px # height
