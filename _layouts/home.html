@@ -2,38 +2,54 @@
 layout: default
 ---
 
+<div class="container my-5">
 
-<div class="row g-5 mb-5 align-items-center">
-  <div class="col-md-6">
-    <h3 class="fw-bold mb-3">About Me</h3>
-    <p style="line-height:1.6">
-      I am a graduate student of MIT EECS joint Mathematics and core member of
-      <a class="other" href="https://www.ericandwendyschmidtcenter.org/">Eric and Wendy Schmidt Center</a>
-      at <a class="other" href="https://www.broadinstitute.org/">Broad Institute</a>. I work closely with Prof. 
-      <a class="other" href="https://biweihuang.com/">Biwei Huang</a> (UC San Diego). Previously, I was supervised by 
-      Prof. <a class="other" href="https://bryantjmoy.com/">Bryant Moy</a> and 
-      <a class="other" href="https://michelesantacatterina.github.io/">Michele Santacatterina</a> at NYU. 
-      I hold a joint master’s degree from 
-      <a class="other" href="https://math.nyu.edu/dynamic/sites/tandon/">NYU Tandon and Courant</a>.
-    </p>
-    <p style="line-height:1.6">
-      My long-term <strong>research interests</strong> are in the geometry principles underlying biology through the lens of algebraic structure.
-    </p>
-    <ul style="list-style-type: square; padding-left:20px;">
-      <li><strong>Algebro-geometric principles in machine learning:</strong> Formulating theory-driven frameworks, studying learning models as geometric objects, and analyzing representation, equivalence, and identifiability as intrinsic structural properties.</li>
-      <li><strong>AI for Biology:</strong> Translating algebro-geometric theory into practical tools for biological discovery, including causality, precise gene editing, and cell state control.</li>
-    </ul>
+  <!-- About Me + Photo -->
+  <div class="row g-5 align-items-center mb-5">
+    <div class="col-md-6">
+      <div class="p-4" style="background:#f8f9fa; border-radius:12px;">
+        <h3 class="fw-bold mb-3">About Me</h3>
+        <p style="line-height:1.6;">
+          I am a graduate student of MIT EECS joint Mathematics and core member of 
+          <a class="other" href="https://www.ericandwendyschmidtcenter.org/">Eric and Wendy Schmidt Center</a> at 
+          <a class="other" href="https://www.broadinstitute.org/">Broad Institute of Harvard and MIT</a>. 
+          I am an affiliated researcher working closely with Prof. 
+          <a class="other" href="https://biweihuang.com/">Biwei Huang</a> (UC San Diego). 
+          I received my master’s degree jointly offered by 
+          <a class="other" href="https://math.nyu.edu/dynamic/sites/tandon/">Tandon Engineering and Courant Institute of Mathematics from New York University</a>, whereI had fortunate to be supervised by 
+          Prof. <a class="other" href="https://bryantjmoy.com/">Bryant Moy</a> and 
+          <a class="other" href="https://michelesantacatterina.github.io/">Michele Santacatterina</a> at NYU.
+        </p>
+        <p style="line-height:1.6;">
+          My long-term <strong>research interests</strong> lie in understanding biology through geometric principles and algebraic structures.
+        </p>
+        <ul style="padding-left:1.2em; margin-top:1em;">
+          <li style="margin-bottom:1em;">
+            <strong>Algebro-geometric principles in machine learning:</strong><br>
+            Formulating theory-driven frameworks, studying learning models as geometric objects, and analyzing representation, equivalence, and identifiability as structural properties.
+          </li>
+          <li style="margin-bottom:1em;">
+            <strong>AI for Biology:</strong><br>
+            Translating theory into practical tools for biological discovery, including causality, precise gene editing, and cell state control.
+          </li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="col-md-5 text-center">
+      <figure>
+        <img src="{{ site.github.url }}/assets/img/avatar.jpg" alt="Avatar" 
+             style="width:90%; border-radius:15px; box-shadow:0 4px 15px rgba(0,0,0,0.2);">
+        <figcaption style="font-size:12px; margin-top:5px;">
+          <a class="other" href="https://maps.app.goo.gl/Y3ZpwAgBNz2LMhqdA">
+            MIT, Cambridge, MA, USA
+          </a>
+        </figcaption>
+      </figure>
+    </div>
   </div>
 
-  <div class="col-md-5 text-center">
-    <figure>
-      <img src="{{ site.github.url }}/assets/img/avatar.jpg" alt="Home" style="width:90%; border-radius:15px; box-shadow:0 4px 15px rgba(0,0,0,0.2);">
-      <figcaption style="font-size:12px; margin-top:5px;">
-        <a class="other" href="https://maps.app.goo.gl/Y3ZpwAgBNz2LMhqdA">
-          MIT, Cambridge, MA, USA
-        </a>
-      </figcaption>
-    </figure>
-  </div>
+  <!-- Optional Updates / News Section -->
+  {% include news.html %}
+
 </div>
-
