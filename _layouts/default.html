@@ -2,10 +2,36 @@
 <html lang="{{ site.lang | default: "en-US" }}">
   {% include head.html %}
   <body>
-    <div class="col-lg-8 mx-auto p-3 py-md-5">
-      {% include header.html %}
-      {{ content }}
-      {% include footer.html %}
+    <div class="d-flex" style="min-height:100vh;">
+
+      <!-- Sidebar / Menu -->
+      <nav class="flex-shrink-0 p-3" style="width:250px; background:#f8f9fa; border-right:1px solid #ddd; position:sticky; top:0; height:100vh;">
+        {% include header.html %}
+      </nav>
+
+      <!-- Main content -->
+      <main class="flex-grow-1 p-4">
+        {{ content }}
+      </main>
+
     </div>
+
+    {% include footer.html %}
+
+    <!-- Responsive adjustment -->
+    <style>
+      @media (max-width: 768px) {
+        .d-flex {
+          flex-direction: column;
+        }
+        nav {
+          width: 100% !important;
+          height: auto !important;
+          position: relative !important;
+          border-right: none;
+          border-bottom: 1px solid #ddd;
+        }
+      }
+    </style>
   </body>
 </html>
