@@ -8,7 +8,7 @@ conference:
 - {authors: [{name: 'Jiaxu Ren', url: '', me: '1'}, {name: 'Yinxin Wang', url: ''}, {name: 'Biwei Huang', last: '1'}], year: '2025', title: 'Causal Representation Meets Stochastic Modeling under Generic Geometry', journal: 'NeurIPS 2025 Workshop CauScien', arxiv: 'https://openreview.net/forum?id=6renfxmnAZ&referrer=%5Bthe%20profile%20of%20Jiaxu%20Ren%5D(%2Fprofile%3Fid%3D~Jiaxu_Ren2)', paper: 'https://openreview.net/forum?id=P2RKFOn0U3&referrer=%5Bthe%20profile%20of%20Jiaxu%20Ren%5D(%2Fprofile%3Fid%3D~Jiaxu_Ren2)'}
 
 arxiv:
-- {authors: [{name: 'Bryant Moy'}, {name: 'Jiaxu Ren', url: '', me: '1'}], year: '2024', title: 'Improving Credibility in Regression Discontinuity through Bayesian Change Point Detection', journal: 'arXiv preprint arXiv:', arxiv: 'https://static1.squarespace.com/static/6268b888592ce56235001050/t/66d4eabdfb76b905f242886e/1725229788508/rdd_cpa_MoyRen', poster: 'https://static1.squarespace.com/static/6268b888592ce56235001050/t/659acf08f0aa1822d35d4141/1705073370852/asianpolmeth'}
+- {authors: [{name: 'Bryant Moy'}, {name: 'Jiaxu Ren', url: '', me: '1', last: '1'}], year: '2024', title: 'Improving Credibility in Regression Discontinuity through Bayesian Change Point Detection', journal: 'arXiv preprint arXiv:', arxiv: 'https://static1.squarespace.com/static/6268b888592ce56235001050/t/66d4eabdfb76b905f242886e/1725229788508/rdd_cpa_MoyRen', poster: 'https://static1.squarespace.com/static/6268b888592ce56235001050/t/659acf08f0aa1822d35d4141/1705073370852/asianpolmeth'}
 
 project:
 - {authors: [{name: 'Jiaxu Ren', url: '', me: '1'}, {name: 'Michele Santacatterina', url: 'https://michelesantacatterina.github.io/'}], year: '2023', title: 'Understanding Efficient Off-policy Value
