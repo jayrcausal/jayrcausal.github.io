@@ -40,48 +40,48 @@ layout: default
   </div>
 
 <div class="container" style="max-width:900px;">
-<div class="row g-4 mb-5">
+  <div class="row g-4 mb-5">
 
-  <div class="row g-4 mb-5 align-items-center"
-       style="
-         background: url('{{ site.github.url }}/assets/img/causality(1).png') center center no-repeat;
-         background-size: cover;
-         padding: 40px 20px;
-         border-radius:12px;
-       ">
+    <div class="row g-4 mb-5 align-items-center justify-content-center"
+         style="
+           background: url('{{ site.github.url }}/assets/img/causality(1).png') center center no-repeat;
+           background-size: cover;
+           padding: 60px 20px;  /* 增加内边距，让图片露出来 */
+           border-radius:12px;
+         ">
 
-
-<!-- Research 1 -->
-    <div class="col-md-5 col-12">
-      <div class="p-3" style="background:#e9f5ff; border-radius:12px;">
-        <h4 class="fw-bold mb-3">
-          Algebro-Geometric Principles in Machine Learning
-        </h4>
-        <p style="line-height:1.6;">
-          Formulating theory-driven frameworks, viewing learning models as geometric objects, 
-          and studying representation, equivalence, and identifiability as intrinsic structural properties.  
-          This theoretical foundation helps uncover deep structural properties of machine learning systems.
-        </p>
+      <!-- Research 1 -->
+      <div class="col-md-5 col-12 mx-2"> <!-- mx-2 拉开两边 -->
+        <div class="p-3" style="background: rgba(233,245,255,0.85); border-radius:12px;"> <!-- 半透明 -->
+          <h4 class="fw-bold mb-3">
+            Algebro-Geometric Principles in Machine Learning
+          </h4>
+          <p style="line-height:1.6;">
+            Formulating theory-driven frameworks, viewing learning models as geometric objects, 
+            and studying representation, equivalence, and identifiability as intrinsic structural properties.  
+            This theoretical foundation helps uncover deep structural properties of machine learning systems.
+          </p>
+        </div>
       </div>
-    </div>
 
-    <!-- Research 2 -->
-    <div class="col-md-5 col-12">
-      <div class="p-3" style="background:#fff4e6; border-radius:12px;">
-        <h4 class="fw-bold mb-3">
-          AI for Biology
-        </h4>
-        <p style="line-height:1.6;">
-          Translating algebraic-geometric learning theory into practical tools for biological discovery, 
-          including causality analysis, precise gene editing, and control of cell states.  
-          The focus is on connecting rigorous theory with impactful biological applications.
-        </p>
+      <!-- Research 2 -->
+      <div class="col-md-5 col-12 mx-2">
+        <div class="p-3" style="background: rgba(255,244,230,0.85); border-radius:12px;"> <!-- 半透明 -->
+          <h4 class="fw-bold mb-3">
+            AI for Biology
+          </h4>
+          <p style="line-height:1.6;">
+            Translating algebraic-geometric learning theory into practical tools for biological discovery, 
+            including causality analysis, precise gene editing, and control of cell states.  
+            The focus is on connecting rigorous theory with impactful biological applications.
+          </p>
+        </div>
       </div>
-    </div>
 
- </div>
+    </div>
+  </div>
 </div>
-</div>
+
   
   <!-- Optional Updates / News Section -->
   {% include news.html %}
