@@ -26,8 +26,17 @@ $linkrosa: #f60e85;
 body {
   background: $backgroundColor;
   color: $bodyColor;
-  font-family: "Share Tech Mono", monospace;
+  font-family: "Share Tech Mono", monospace; 
 }
+
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Audiowide", sans-serif; 
+  font-weight: 700;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+}
+
 
 
 //body a {
