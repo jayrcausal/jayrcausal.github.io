@@ -1,6 +1,6 @@
 $backgroundColor: #ffffff;
 $bodyColor: #000000;
-$bodyFont: "Share Tech Mono", monospace;
+$bodyFont: "Saira Extra Condensed", monospace;
 $linkColor: #212529 !important;
 $linkmorado: #8e0eb3; //morado oscuro
 $linkazul: #0b5394; //azul oscuro
@@ -8,6 +8,59 @@ $linkverde: #6aa84f;
 $linkverdeoscuro: #3d603d; 
 $linkrosa: #f60e85;
 
+.saira-extra-condensed-thin {
+  font-family: "Saira Extra Condensed", sans-serif;
+  font-weight: 100;
+  font-style: normal;
+}
+
+.saira-extra-condensed-extralight {
+  font-family: "Saira Extra Condensed", sans-serif;
+  font-weight: 200;
+  font-style: normal;
+}
+
+.saira-extra-condensed-light {
+  font-family: "Saira Extra Condensed", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+}
+
+.saira-extra-condensed-regular {
+  font-family: "Saira Extra Condensed", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.saira-extra-condensed-medium {
+  font-family: "Saira Extra Condensed", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.saira-extra-condensed-semibold {
+  font-family: "Saira Extra Condensed", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+}
+
+.saira-extra-condensed-bold {
+  font-family: "Saira Extra Condensed", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.saira-extra-condensed-extrabold {
+  font-family: "Saira Extra Condensed", sans-serif;
+  font-weight: 800;
+  font-style: normal;
+}
+
+.saira-extra-condensed-black {
+  font-family: "Saira Extra Condensed", sans-serif;
+  font-weight: 900;
+  font-style: normal;
+}
 
 .audiowide-regular {
   font-family: "Audiowide", sans-serif;
@@ -30,7 +83,7 @@ body { background: $backgroundColor;
 
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Share Tech Mono", sans-serif; 
+  font-family: "Saira Extra Condensed", sans-serif; 
   font-weight: 700;
   letter-spacing: 1px;
   text-transform: uppercase;
