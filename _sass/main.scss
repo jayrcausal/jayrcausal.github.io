@@ -8,6 +8,15 @@ $linkverde: #6aa84f;
 $linkverdeoscuro: #3d603d; 
 $linkrosa: #f60e85;
 
+.about-card {
+  background: linear-gradient(
+    180deg,
+    rgba(11, 53, 148, 1),
+    rgba(62, 0, 83, 1)
+  );
+  color: #ffffff;
+}
+
 .saira-extra-condensed-thin {
   font-family: "Saira Extra Condensed", sans-serif;
   font-weight: 100;
